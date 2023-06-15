@@ -1,6 +1,4 @@
-package TrabalhandoComArquivos.Entities;
-
-import Composicao1.entities.Department;
+package TrabalhandoComArquivos.entities;
 
 public class Product {
     private String name;

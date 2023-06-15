@@ -1,12 +1,10 @@
-package ExHerancaEpoliFixacao.Main;
+package ExHerancaEpoliFixacao.main;
 
-import ExHerancaEpoliFixacao.Entites.ImportedProduct;
-import ExHerancaEpoliFixacao.Entites.Product;
-import ExHerancaEpoliFixacao.Entites.UsedProduct;
+import ExHerancaEpoliFixacao.entites.ImportedProduct;
+import ExHerancaEpoliFixacao.entites.Product;
+import ExHerancaEpoliFixacao.entites.UsedProduct;
 
-import java.security.spec.RSAOtherPrimeInfo;
 import java.time.LocalDate;
-import java.time.chrono.ChronoLocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package ExHerancaEpoliFixacao.Entites;
+package ExHerancaEpoliFixacao.entites;
 
 public class Product {
     private String name;

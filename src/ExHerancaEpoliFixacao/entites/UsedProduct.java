@@ -1,7 +1,6 @@
-package ExHerancaEpoliFixacao.Entites;
+package ExHerancaEpoliFixacao.entites;
 
 import java.time.LocalDate;
-import java.util.Date;
 import java.time.format.DateTimeFormatter;
 
 public class UsedProduct extends Product {

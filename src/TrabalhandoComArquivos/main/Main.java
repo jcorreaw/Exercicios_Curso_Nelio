@@ -1,6 +1,6 @@
-package TrabalhandoComArquivos.Main;
+package TrabalhandoComArquivos.main;
 
-import TrabalhandoComArquivos.Entities.Product;
+import TrabalhandoComArquivos.entities.Product;
 
 import java.io.*;
 import java.text.ParseException;
